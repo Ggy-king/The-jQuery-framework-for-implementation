@@ -1,0 +1,1 @@
+var e = $("", { href: "#", class: "a-class another-class", title: "..." });
